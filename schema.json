@@ -1,0 +1,5 @@
+{
+  "project": "Global-Canon-Antiphony",
+  "framework": "Trinitarian Event Framework (TEF)",
+  "data_points": ["Shijing_Index", "Psalms_Index", "Resonance_Score", "AIGC_Production_Link"]
+}
