@@ -4,7 +4,7 @@
 
 This project is a core manifestation of the **Trinity Event Framework (TEF)**. We aim to align the spiritual frequencies of world canons—starting with the *Classic of Poetry (Shijing)* and the *Psalms*—using AIGC and Computational Ontology.
 
-本項目是 **「三位一體事件框架 (TEF)」** 的核心實踐。我們致力於利用 AIGC 與計算本體論，對齊世界元典的靈性頻率——從《詩經》與《詩篇》的對讀對唱開始。
+本項目是 **「三一事件框架 (Trintarian Event Frame)」** 的核心實踐。我們致力於利用 AIGC 與計算本體論，對齊世界元典的靈性頻率——從《詩經》與《詩篇》的對讀對唱開始。
 
 ---
 
