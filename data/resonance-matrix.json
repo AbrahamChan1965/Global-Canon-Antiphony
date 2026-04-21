@@ -1,0 +1,44 @@
+[
+  {
+    "id": "antiphony_001_longing",
+    "metadata": {
+      "framework": "Trinity Event Framework (TEF)",
+      "curator": "Abraham Chan",
+      "visual_identity": {
+        "primary_color": "#800080",
+        "secondary_color": "#D4AF37",
+        "style": "Impasto Oil Painting"
+      }
+    },
+    "pairing": {
+      "source_a": {
+        "canon": "Classic of Poetry (Shijing)",
+        "chapter": "Jian Jia (蒹葭)",
+        "language": "Classical Chinese",
+        "core_text": "蒹葭蒼蒼，白露為霜。所謂伊人，在水一方。",
+        "spiritual_frequency": "Elusive, Melancholy, Persistent",
+        "key_metaphors": ["Mist", "Reeds", "River", "Unattainable Object"]
+      },
+      "source_b": {
+        "canon": "Psalms",
+        "chapter": "Psalm 42",
+        "language": "Hebrew/English",
+        "core_text": "As the deer pants for streams of water, so my soul pants for you, O God.",
+        "spiritual_frequency": "Thirst, Solemn, Foundational",
+        "key_metaphors": ["Deer", "Streams", "Thirst", "Divine Source"]
+      }
+    },
+    "intelligence_layer": {
+      "resonance_score": 0.98,
+      "comparative_logic": "The transition from the 'Unattainable Human Other' in Shijing to the 'Ultimate Divine Source' in Psalms. Both express a fundamental ontological thirst.",
+      "theological_calibration_notes": "Ensure the AIGC audio reflects the transition from Guqin (Spacey) to Hebrew Harp (Grounded)."
+    },
+    "action_layer": {
+      "audio_prompt": "An antiphonal duet: Ancient Chinese Guqin meets Levite-style Lyre. Deep, resonant vocals blending eastern pentatonic scales with middle-eastern melodic minor.",
+      "visual_timeline": [
+        { "timestamp": "00:00", "effect": "Purple mist rising from reeds", "hex": "#800080" },
+        { "timestamp": "00:45", "effect": "Gold ripples on water source", "hex": "#D4AF37" }
+      ]
+    }
+  }
+]
